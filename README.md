@@ -1,4 +1,5 @@
-# Wired  ![Wired Logo](./JavaApplication/src/Icons/landscape-1.png)
+# Wired  
+![Wired Logo](./JavaApplication/src/Icons/landscape-1.png)
 
 
 chat application using a centralized client/server model to provide multi-user functionality and server-level monitoring. The application was developed using Java programming language and the following technologies: JavaFX, JDBC, and MySQL. The editor used is Netbeans.

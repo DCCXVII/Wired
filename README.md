@@ -76,7 +76,7 @@ Navigate to the Client directory exists at the JavaApplication/src and set the n
 
 ## Demo
 
-* Starting the server
+- Starting the server
 ![server started](./Test/Service-side-2.PNG)
 
 * Creating two accounts. user1 & user2

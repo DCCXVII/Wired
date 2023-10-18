@@ -84,8 +84,9 @@ Starting the server
 Creating two accounts. user1 & user2
 ![user 1](./Test/Signup-user2.PNG)
 ![user 2](./Test/Signup-user2.PNG)
-
+```
 Loggin with the two accounts. user1 & user2
+```
 ![user 1](./Test/Signin-user1.PNG)
 ![user 2](./Test/Signin-user1.PNG)
 
